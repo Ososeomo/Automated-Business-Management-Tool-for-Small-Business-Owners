@@ -49,6 +49,29 @@ I am exploring opportunities to enhance this project further by:
 - Developing a cloud-based version for real-time multi-device access.
 - Adding automated forecasting and recommendation systems.
 
+
+---
+HERE ARE SCREENSHOTS OF THE EXCEL SHEET FOR MANAGEMENT USING SAMPLE DATA FOR A JEWELRY STORE
+
+##CUSTOMER INFORMATION
+<img width="1670" alt="Screenshot 2024-12-10 at 8 15 09 PM" src="https://github.com/user-attachments/assets/777f6e0f-a70b-4149-9ae6-46754adbf658">
+
+##Sales Tracking
+<img width="1670" alt="Screenshot 2024-12-10 at 8 15 43 PM" src="https://github.com/user-attachments/assets/e086fd8c-ad59-4f9d-9e55-41fff9009b44">
+
+##KPI
+<img width="1670" alt="Screenshot 2024-12-10 at 8 16 04 PM" src="https://github.com/user-attachments/assets/8023bf12-243f-4abb-bc26-fa3a3a827104">
+
+##EXPENSE TRACKER 
+<img width="1670" alt="Screenshot 2024-12-10 at 8 16 15 PM" src="https://github.com/user-attachments/assets/cc12448a-e8ae-466d-a4ad-e7f5a173b738">
+
+##CASH FLOW TRACKER
+<img width="1670" alt="Screenshot 2024-12-10 at 8 16 23 PM" src="https://github.com/user-attachments/assets/c1ce191c-aa8d-460b-a106-1152890894cb">
+
+##INVENTORY TRACKER
+<img width="1670" alt="Screenshot 2024-12-10 at 8 17 06 PM" src="https://github.com/user-attachments/assets/a1e55510-cc68-4bf3-98d4-54ffb8b99d9f">
+
+
 ---
 
 ## Call to Action
